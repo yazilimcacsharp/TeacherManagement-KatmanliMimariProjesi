@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkCkTqA2gQXKnoKrFtxyPoE0id00qHHKu0Oecnjx24A2sO0UklYRoSP5EaezQ62WgRG5ad8uXLccV0IE6itRbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Software Developer\\Desktop\\TeacherManagement-master\\TeacherManagement-master\\Dogru\\TeacherManagement.Data\\TeacherManagement.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Software Developer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Software Developer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Software Developer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
